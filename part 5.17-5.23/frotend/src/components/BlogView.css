@@ -1,0 +1,23 @@
+/* BlogView.css */
+
+/* Style for the blog title header */
+.blog-titles-header {
+  font-size: 2rem; /* Increase font size for the title */
+  margin-bottom: 1rem; /* Add space below the title */
+  color: #333; /* Set text color */
+}
+
+/* Style for the Back button */
+.back-button {
+  margin-top: 20px; /* Add space above the button */
+  padding: 10px 20px; /* Add padding to the button */
+  background-color: #007bff; /* Set background color */
+  color: #fff; /* Set text color */
+  border: none; /* Remove border */
+  border-radius: 4px; /* Add rounded corners */
+  cursor: pointer; /* Change cursor to pointer */
+}
+
+.back-button:hover {
+  background-color: #0056b3; /* Change background color on hover */
+}
